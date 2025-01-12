@@ -1,13 +1,8 @@
 ## Hi there, I'm Yonathan! 👋
 
-### I'm a Software Engineer working with
+### I'm a Product Designer and Developer working with
 
-- TypeScript/JavaScript
-- React • NextJS • Remix • Astro
-- Node and the broader JS ecosystem
+- JavaScript, Swift
+- React • SwiftUI • React Native
 
-I enjoy building 🏗️ things on the internet. Typescript lover btw🙌
-
-I'm currently interested in exploring and learning Go, Rust, and programming solid backend services more broadly.
-### Public Stats
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=yonaries&show_icons=true&theme=react&rank_icon=github&card_width=475)](https://github.com/yonaries/github-readme-stats)
+I enjoy building 🏗️ things on the internet.
