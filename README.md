@@ -1,8 +1,8 @@
-## Hi there, I'm Yonathan! 👋
+## hi there, i'm yonathan! 👋
 
-### I'm a Product Designer and Developer working with
+### i'm a product designer/design engineer working with
 
-- JavaScript, Swift
-- React • SwiftUI • React Native
+- typeScript, swift
+- react • swiftUI • react native
 
-I enjoy building 🏗️ things on the internet.
+i love designing products, enjoy building 🏗️ things on for the internet.
